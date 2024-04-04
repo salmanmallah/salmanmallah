@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Infosec, Programming and Software Development**
 
-- 📫 How to reach me **mallahsalman06@gmail.comm**
+- 📫 How to reach me **mallahsalman06@gmail.com**
 
 - ⚡ Fun fact **I always Smile!🤣**
 
