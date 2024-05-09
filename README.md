@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/pythonsalman06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pythonsalman06" height="30" width="40" /></a>
+<a href="[https://www.hackerrank.com/https://www.hackerrank.com/profile/pythonsalman06](https://www.hackerrank.com/profile/salmanmallah)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pythonsalman06" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/ucDPKJGKUm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/ucDPKJGKUm" height="30" width="40" /></a>
 </p>
 
