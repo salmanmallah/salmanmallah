@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mallahsalman06@gmail.com**
 
-- ⚡ Fun fact **I always Smile!🤣**
+- ⚡ Fun fact **I always Smile!!🤣**
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanmallah&label=Profile%20views&color=0e75b6&style=flat" alt="salmanmallah" /> </p>
