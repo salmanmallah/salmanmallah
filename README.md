@@ -19,7 +19,7 @@
 - 🕸 My Website: https://salmanmallah.me/
 
 # My HackerRank Profile:
-![Banner](https://your-image-url.com/banner.png)
+![Banner]([https://your-image-url.com/banner.png](https://github.com/salmanmallah/salmanmallah/blob/main/salmanmallah_HackerRank.png))
 
 
 
