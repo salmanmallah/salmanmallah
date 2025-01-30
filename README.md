@@ -18,6 +18,10 @@
 - ⚡ Fun fact **I always Smile!!🤣**
 - 🕸 My Website: https://salmanmallah.me/
 
+# My HackerRank Profile:
+add banner here
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanmallah&label=Profile%20views&color=0e75b6&style=flat" alt="salmanmallah" /> </p>
 
