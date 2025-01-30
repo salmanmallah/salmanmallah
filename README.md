@@ -19,7 +19,8 @@
 - 🕸 My Website: https://salmanmallah.me/
 
 # My HackerRank Profile:
-add banner here
+![Banner](https://your-image-url.com/banner.png)
+
 
 
 
