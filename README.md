@@ -13,8 +13,7 @@
 
 - 💬 Ask me about **Infosec, Programming and Software Development**
 
-## 📬 Contact Me
-📧 **Email:** [your-email@gmail.com](mailto:your-email@gmail.com?subject=Hello%20from%20GitHub&body=Hi,%20I%20found%20your%20project%20on%20GitHub.)
+- 📫 How to reach me **mallahsalman06@gmail.com**
 
 - ⚡ Fun fact **I always Smile!!🤣**
 - 🕸 My Website: https://salmanmallah.me/
