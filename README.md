@@ -43,7 +43,7 @@
 
 <!-- Streak Card -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=salmanmallah&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=salmanmallah&theme=dark&hide_border=false&background=000000&ring=00FF00" alt="GitHub Streak"/>
 </p>
 
 ---
