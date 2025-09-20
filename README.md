@@ -41,8 +41,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanmallah&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </p>
 
+<!-- Streak Card -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=salmanmallah&theme=dark&background=000000&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=salmanmallah&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 ---
