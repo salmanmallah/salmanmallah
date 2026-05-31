@@ -31,7 +31,7 @@
 | | Role | Company | Period |
 |--|------|---------|--------|
 | 🛡️ | Cyber Security Engineer | **CtechSol Ireland** *(Remote)* | Sep 2025 – Mar 2026 |
-| 💻 | Software Engineer | **OnlineCare**, Hyderabad | Jun 2025 – Sep 2025 |
+| 💻 | Software Engineer | **OnlineCare**, (Onsite) | Jun 2025 – Sep 2025 |
 
 ---
 
