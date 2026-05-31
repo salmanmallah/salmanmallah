@@ -13,18 +13,17 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ### 💡 About Me
-
 - 🎓 Final-year **B.S. Cyber Security** student at **MUET**, Jamshoro, Pakistan
 - 🔭 Currently working on **Malware Analysis** — static analysis, PE internals & ML-based malware classification (FYP)
-- 💼 Working as **Cyber Security Engineer** at **CtechSol Ireland** *(Remote)*
+- 💼 Worked as **Cyber Security Researcher** at **CtechSol Ireland** *(Remote)*
 - 🛡️ Focused on **Static Malware Analysis, Reverse Engineering & Threat Detection**
 - 🌱 Currently deepening knowledge in **ML for Security, FastAPI & PE Internals**
 - 🏆 **CCNA Certified** · **Jr. Penetration Tester (THM)** · **GitHub Foundations Certified**
 - 💬 Ask me about **InfoSec, Malware Analysis, Backend Development, Python**
 - 📫 Reach me at **mallahsalman06@gmail.com**
-- 🌐 Website: [salmanmallah.me](https://salmanmallah.me)
+- 💼 LinkedIn: [linkedin.com/in/salmanmallah06](https://www.linkedin.com/in/salmanmallah06/)
+- 🌐 Website: [salmanmallah.me](https://salmanmallah.github.io/)
 - ⚡ Fun fact: **I always Smile!! 🤣**
-
 ---
 
 ### 💼 Experience
@@ -32,8 +31,7 @@
 | | Role | Company | Period |
 |--|------|---------|--------|
 | 🛡️ | Cyber Security Engineer | **CtechSol Ireland** *(Remote)* | Sep 2025 – Mar 2026 |
-| 💻 | Software Engineer | **OnlineCare LLC**, Hyderabad | Jun 2025 – Sep 2025 |
-| 🌐 | Virtual Technical Intern | **Digital Empowerment Network** | Jun 2025 |
+| 💻 | Software Engineer | **OnlineCare**, Hyderabad | Jun 2025 – Sep 2025 |
 
 ---
 
@@ -42,14 +40,23 @@
 🔬 **AI Malware Detection System** *(Final Year Project)*
 > ML-based static analysis engine using **LIEF**, **Capa**, trained on **BODMAS** & **Binary-30K** datasets for real-world malware classification.
 
-🔐 **[CryptoFreq](https://salmanmallah.pythonanywhere.com)**
+🔐 **[CryptoFreq]()**
 > Caesar cipher & frequency analysis web tool built with **Flask**, deployed on PythonAnywhere as a live cryptanalysis utility.
 
 🧠 **ThreatLens**
 > Conceptual AI-driven **SaaS malware analysis platform** — fully architected with system design, tech stack, and business model documentation.
 
-🤖 **Instagram DM Automation Userscript**
-> Tampermonkey userscript leveraging Instagram's **private API** for DM automation, with username-based ownership detection for group chat support.
+📱 **Emcura** *(Android Application)*
+> Full Android app built in **Kotlin** for a client — covering end-to-end mobile development including UI, business logic, and backend integration.
+
+📚 **Library Automation System**
+> Automated a manual book entry workflow using **Python** & **OpenCV** — barcode scanning pipeline that reads ISBN barcodes and logs book records automatically, eliminating manual data entry.
+
+🏛️ **Government Portal Revamp**
+> Migrated and revamped a legacy government web portal from **.NET** to **Laravel (PHP)** — modernizing the codebase, improving maintainability, and re-architecting the backend.
+
+📊 **Sorting Algorithm Visualizer**
+> Interactive **DSA visualization tool** demonstrating sorting algorithms (Bubble, Merge, Quick, etc.) in real-time — built to make algorithm behavior intuitive and observable.
 
 ---
 
