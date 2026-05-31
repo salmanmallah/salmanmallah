@@ -10,7 +10,7 @@
 <hr/>
 
 <!-- Right side coding gif -->
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 ### 💡 About Me
 - 🎓 Final-year **B.S. Cyber Security** student at **MUET**, Jamshoro, Pakistan
@@ -22,7 +22,7 @@
 - 💬 Ask me about **InfoSec, Malware Analysis, Backend Development, Python**
 - 📫 Reach me at **mallahsalman06@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/salmanmallah06](https://www.linkedin.com/in/salmanmallah06/)
-- 🌐 Website: [salmanmallah.me](https://salmanmallah.github.io/)
+- 🌐 Website: [salmanmallah.github.io](https://salmanmallah.github.io/)
 - ⚡ Fun fact: **I always Smile!! 🤣**
 ---
 
