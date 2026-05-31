@@ -78,28 +78,25 @@
 
 ### 📊 GitHub Stats
 
+<!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=salmanmallah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=salmanmallah&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salmanmallah&theme=buddhism&no-frame=true&row=1" alt="GitHub Trophies"/>
-  </a>
-</p>
-
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanmallah&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanmallah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanmallah&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanmallah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=salmanmallah&theme=dark&hide_border=true&background=141c2b&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&currStreakNum=00FF00" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanmallah&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me
