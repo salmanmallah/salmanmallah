@@ -84,16 +84,20 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salmanmallah&theme=buddhism" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=salmanmallah&theme=buddhism&no-frame=true&row=1" alt="GitHub Trophies"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanmallah&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salmanmallah&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=salmanmallah&theme=dark&hide_border=false&background=141c2b&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&currStreakNum=00FF00" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanmallah&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=salmanmallah&theme=dark&hide_border=true&background=141c2b&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00&currStreakNum=00FF00" alt="GitHub Streak"/>
 </p>
 
 ---
