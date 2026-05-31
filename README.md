@@ -79,13 +79,12 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=salmanmallah&theme=buddhism" alt="Profile views" />
- 
+  <img src="https://komarev.com/ghpvc/?username=salmanmallah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=salmanmallah" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=salmanmallah&theme=buddhism" alt="GitHub Trophies"/>
   </a>
 </p>
 
