@@ -21,8 +21,8 @@
 - 🏆 **CCNA Certified** · **Jr. Penetration Tester (THM)** · **GitHub Foundations Certified**
 - 💬 Ask me about **InfoSec, Malware Analysis, Backend Development, Python**
 - 📫 Reach me at **mallahsalman06@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/salmanmallah06](https://www.linkedin.com/in/salmanmallah06/)
-- 🌐 Website: [salmanmallah.github.io](https://salmanmallah.github.io/)
+- 💼 LinkedIn: NULL
+- 🌐 Website: NULL
 - ⚡ Fun fact: **I always Smile!! 🤣**
 ---
 
