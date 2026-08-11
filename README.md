@@ -61,7 +61,7 @@
 ---
 
 ### 🏆 My HackerRank Profile
-![Banner](https://github.com/salmanmallah/salmanmallah/blob/main/salmanmallah_HackerRank.png)
+![Banner]()
 
 ---
 
