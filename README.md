@@ -10,7 +10,7 @@
 <hr/>
 
 <!-- Right side coding gif -->
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2[...]">
 
 ### 💡 About Me
 - 🎓 Final-year **B.S. Cyber Security** student at **MUET**, Jamshoro, Pakistan
@@ -21,8 +21,8 @@
 - 🏆 **CCNA Certified** · **Jr. Penetration Tester (THM)** · **GitHub Foundations Certified**
 - 💬 Ask me about **InfoSec, Malware Analysis, Backend Development, Python**
 - 📫 Reach me at **mallahsalman06@gmail.com**
-- 💼 LinkedIn: NULL
-- 🌐 Website: NULL
+- 💼 LinkedIn: [linkedin.com/in/salmanmallah06](https://www.linkedin.com/in/salmanmallah06/)
+- 🌐 Website: [salmanmallah.github.io](https://salmanmallah.github.io/)
 - ⚡ Fun fact: **I always Smile!! 🤣**
 ---
 
@@ -61,7 +61,7 @@
 ---
 
 ### 🏆 My HackerRank Profile
-![Banner]()
+![Banner](https://github.com/salmanmallah/salmanmallah/blob/main/salmanmallah_HackerRank.png)
 
 ---
 
@@ -101,7 +101,20 @@
 
 ### 🤝 Connect with Me
 
-
+<p align="left">
+  <a href="https://linkedin.com/in/salmanmallah" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/salmanmallah" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
+  <a href="https://tryhackme.com/p/salmanmallah" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tryhackme.svg" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/ucDPKJGKUm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -145,7 +158,8 @@
   <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a>
   <a href="https://materializecss.com/" target="_blank"><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
+  <a href="https://www.oracle.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldgithubusercontent.com/adobe-xd.svg" width="40" height="40"/></a>
 </p>
+
