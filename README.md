@@ -35,31 +35,6 @@
 
 ---
 
-### Featured Projects
-
-**AI Malware Detection System** *(Final Year Project)*
-> ML-based static analysis engine using **LIEF**, **Capa**, trained on **BODMAS** & **Binary-30K** datasets for real-world malware classification.
-
-**CryptoFreq**
-> Caesar cipher & frequency analysis web tool built with **Flask**, deployed on PythonAnywhere as a live cryptanalysis utility.
-
-**ThreatLens**
-> Conceptual AI-driven **SaaS malware analysis platform** — fully architected with system design, tech stack, and business model documentation.
-
-**Emcura** *(Android Application)*
-> Full Android app built in **Kotlin** for a client — covering end-to-end mobile development including UI, business logic, and backend integration.
-
-**Library Automation System**
-> Automated a manual book entry workflow using **Python** & **OpenCV** — barcode scanning pipeline that reads ISBN barcodes and logs book records automatically, eliminating manual data entry.
-
-**Government Portal Revamp**
-> Migrated and revamped a legacy government web portal from **.NET** to **Laravel (PHP)** — modernizing the codebase, improving maintainability, and re-architecting the backend.
-
-**Sorting Algorithm Visualizer**
-> Interactive **DSA visualization tool** demonstrating sorting algorithms (Bubble, Merge, Quick, etc.) in real-time — built to make algorithm behavior intuitive and observable.
-
----
-
 ### HackerRank Profile
 ![Banner](./salmanmallah_HackerRank.png)
 
