@@ -1,5 +1,5 @@
 <!-- Banner / MasterHead -->
-![MasterHead](https://github.com/salmanmallah/salmanmallah/blob/main/PROGRAMER.gif)
+![MasterHead](./PROGRAMER.gif)
 
 <h1 align="center">Hi 👋, I'm Salman Mallah</h1>
 <h3 align="center">Cyber Security Engineer · Backend Developer · Malware Analyst</h3>
@@ -21,8 +21,8 @@
 - 🏆 **CCNA Certified** · **Jr. Penetration Tester (THM)** · **GitHub Foundations Certified**
 - 💬 Ask me about **InfoSec, Malware Analysis, Backend Development, Python**
 - 📫 Reach me at **mallahsalman06@gmail.com**
-- 💼 LinkedIn: NULL
-- 🌐 Website: NULL
+- 💼 LinkedIn: [linkedin.com/in/salmanmallah06](https://www.linkedin.com/in/salmanmallah06/)
+- 🌐 Website: [salmanmallah.github.io](https://salmanmallah.github.io/)
 - ⚡ Fun fact: **I always Smile!! 🤣**
 ---
 
@@ -40,7 +40,7 @@
 🔬 **AI Malware Detection System** *(Final Year Project)*
 > ML-based static analysis engine using **LIEF**, **Capa**, trained on **BODMAS** & **Binary-30K** datasets for real-world malware classification.
 
-🔐 **[CryptoFreq]()**
+🔐 **CryptoFreq**
 > Caesar cipher & frequency analysis web tool built with **Flask**, deployed on PythonAnywhere as a live cryptanalysis utility.
 
 🧠 **ThreatLens**
@@ -61,7 +61,7 @@
 ---
 
 ### 🏆 My HackerRank Profile
-![Banner]()
+![Banner](./salmanmallah_HackerRank.png)
 
 ---
 
@@ -101,7 +101,20 @@
 
 ### 🤝 Connect with Me
 
-
+<p align="left">
+  <a href="https://linkedin.com/in/salmanmallah06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salmanmallah06" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/salmanmallah" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="salmanmallah" height="30" width="40" />
+  </a>
+  <a href="https://tryhackme.com/p/salmanmallah" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tryhackme.svg" alt="salmanmallah" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/ucDPKJGKUm" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -113,8 +126,8 @@
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="40" height="40"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/></a>
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
@@ -137,15 +150,15 @@
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40"/></a>
+  <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/></a>
   <a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a>
-  <a href="https://materializecss.com/" target="_blank"><img src="https://raw.githubusercontent.com/prplx/svg-logos/master/svg/materialize.svg" width="40" height="40"/></a>
+  <a href="https://materializecss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materializecss/materializecss-original.svg" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" width="40" height="40"/></a>
 </p>
