@@ -1,7 +1,7 @@
 <!-- Banner / MasterHead -->
 ![MasterHead](./PROGRAMER.gif)
 
-<h1 align="center">Hi 👋, I'm Salman Mallah</h1>
+<h1 align="center">Hi, I'm Salman Mallah</h1>
 <h3 align="center">Cyber Security Engineer · Backend Developer · Malware Analyst</h3>
 <p align="center">
   <em>Building systems where security and engineering converge.</em>
@@ -12,71 +12,71 @@
 <!-- Right side coding gif -->
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-### 💡 About Me
-- 🎓 Final-year **B.S. Cyber Security** student at **MUET**, Jamshoro, Pakistan
-- 🔭 Currently working on **Malware Analysis** — static analysis, PE internals & ML-based malware classification (FYP)
-- 💼 Worked as **Cyber Security Researcher** at **CtechSol Ireland** *(Remote)*
-- 🛡️ Focused on **Static Malware Analysis, Reverse Engineering & Threat Detection**
-- 🌱 Currently deepening knowledge in **ML for Security, FastAPI & PE Internals**
-- 🏆 **CCNA Certified** · **Jr. Penetration Tester (THM)** · **GitHub Foundations Certified**
-- 💬 Ask me about **InfoSec, Malware Analysis, Backend Development, Python**
-- 📫 Reach me at **mallahsalman06@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/salmanmallah06](https://www.linkedin.com/in/salmanmallah06/)
-- 🌐 Website: [salmanmallah.github.io](https://salmanmallah.github.io/)
-- ⚡ Fun fact: **I always Smile!! 🤣**
----
-
-### 💼 Experience
-
-| | Role | Company | Period |
-|--|------|---------|--------|
-| 🛡️ | Cyber Security Engineer | **CtechSol Ireland** *(Remote)* | Sep 2025 – Mar 2026 |
-| 💻 | Software Engineer | **OnlineCare**, (Onsite) | Jun 2025 – Sep 2025 |
+### About Me
+- Final-year **B.S. Cyber Security** student at **MUET**, Jamshoro, Pakistan
+- Currently working on **Malware Analysis** — static analysis, PE internals & ML-based malware classification (FYP)
+- Worked as **Cyber Security Researcher** at **CtechSol Ireland** *(Remote)*
+- Focused on **Static Malware Analysis, Reverse Engineering & Threat Detection**
+- Currently deepening knowledge in **ML for Security, FastAPI & PE Internals**
+- **CCNA Certified** · **Jr. Penetration Tester (THM)** · **GitHub Foundations Certified**
+- Ask me about **InfoSec, Malware Analysis, Backend Development, Python**
+- Email: [mallahsalman06@gmail.com](mailto:mallahsalman06@gmail.com)
+- LinkedIn: [linkedin.com/in/salmanmallah06](https://www.linkedin.com/in/salmanmallah06/)
+- Website: [salmanmallah.github.io](https://salmanmallah.github.io/)
 
 ---
 
-### 🚀 Featured Projects
+### Experience
 
-🔬 **AI Malware Detection System** *(Final Year Project)*
+| Role | Company | Period |
+|------|---------|--------|
+| Cyber Security Engineer | **CtechSol Ireland** *(Remote)* | Sep 2025 – Mar 2026 |
+| Software Engineer | **OnlineCare**, (Onsite) | Jun 2025 – Sep 2025 |
+
+---
+
+### Featured Projects
+
+**AI Malware Detection System** *(Final Year Project)*
 > ML-based static analysis engine using **LIEF**, **Capa**, trained on **BODMAS** & **Binary-30K** datasets for real-world malware classification.
 
-🔐 **CryptoFreq**
+**CryptoFreq**
 > Caesar cipher & frequency analysis web tool built with **Flask**, deployed on PythonAnywhere as a live cryptanalysis utility.
 
-🧠 **ThreatLens**
+**ThreatLens**
 > Conceptual AI-driven **SaaS malware analysis platform** — fully architected with system design, tech stack, and business model documentation.
 
-📱 **Emcura** *(Android Application)*
+**Emcura** *(Android Application)*
 > Full Android app built in **Kotlin** for a client — covering end-to-end mobile development including UI, business logic, and backend integration.
 
-📚 **Library Automation System**
+**Library Automation System**
 > Automated a manual book entry workflow using **Python** & **OpenCV** — barcode scanning pipeline that reads ISBN barcodes and logs book records automatically, eliminating manual data entry.
 
-🏛️ **Government Portal Revamp**
+**Government Portal Revamp**
 > Migrated and revamped a legacy government web portal from **.NET** to **Laravel (PHP)** — modernizing the codebase, improving maintainability, and re-architecting the backend.
 
-📊 **Sorting Algorithm Visualizer**
+**Sorting Algorithm Visualizer**
 > Interactive **DSA visualization tool** demonstrating sorting algorithms (Bubble, Merge, Quick, etc.) in real-time — built to make algorithm behavior intuitive and observable.
 
 ---
 
-### 🏆 My HackerRank Profile
+### HackerRank Profile
 ![Banner](./salmanmallah_HackerRank.png)
 
 ---
 
-### 📜 Certifications & Achievements
+### Certifications & Achievements
 
-- 🔐 **CCNA** · CCNA Routing & Switching — *Cisco*
-- 🐱‍💻 **Jr. Penetration Tester** — *TryHackMe*
-- 🐙 **GitHub Foundations Certified** *(May 2026)*
-- 🐍 **Python 5⭐** · **C++ 5⭐** — *HackerRank*
-- 🏅 **NAVTTC Web Development** — Position Holder
-- 📋 **HEC National Skill Competency Test** *(Mar 2026)*
+- **CCNA** · CCNA Routing & Switching — *Cisco*
+- **Jr. Penetration Tester** — *TryHackMe*
+- **GitHub Foundations Certified** *(May 2026)*
+- **Python 5-Star** · **C++ 5-Star** — *HackerRank*
+- **NAVTTC Web Development** — Position Holder
+- **HEC National Skill Competency Test** *(Mar 2026)*
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <!-- Profile Views -->
 <p align="left">
@@ -99,7 +99,7 @@
 </p>
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <p align="left">
   <a href="https://linkedin.com/in/salmanmallah06" target="_blank">
@@ -118,7 +118,7 @@
 
 ---
 
-### 🛠 Languages and Tools
+### Languages and Tools
 
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/></a>
