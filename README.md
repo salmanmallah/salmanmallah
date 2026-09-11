@@ -4,9 +4,6 @@
   <img alt="salmanmallah's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-<!-- Banner / MasterHead -->
-![MasterHead](./PROGRAMER.gif)
-
 <h1 align="center">Hi, I'm Salman Mallah</h1>
 <h3 align="center">Cyber Security Engineer · Backend Developer · Malware Analyst</h3>
 <p align="center">
