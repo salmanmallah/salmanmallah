@@ -63,17 +63,17 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=salmanmallah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=salmanmallah&show_icons=true&bg_color=0d1117&title_color=ff5533&text_color=e6edf3&icon_color=ff8c1a&ring_color=ff5533&border_color=3d1f1a&cache_seconds=1800" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=salmanmallah&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=salmanmallah&layout=compact&bg_color=0d1117&title_color=ff5533&text_color=e6edf3&border_color=3d1f1a" />
 </p>
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanmallah&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanmallah&background=0d1117&ring=ff5533&fire=ff8c1a&currStreakNum=ff8c1a&sideNums=e6edf3&currStreakLabel=ff5533&sideLabels=8b949e&dates=8b949e&stroke=3d1f1a" />
 </p>
 ---
 
