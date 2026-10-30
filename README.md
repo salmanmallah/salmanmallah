@@ -108,12 +108,12 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=salmanmallah&show_icons=true&bg_color=0d1117&title_color=ff5533&text_color=e6edf3&icon_color=ff8c1a&ring_color=ff5533&border_color=3d1f1a&cache_seconds=1800" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=salmanmallah&show_icons=true&bg_color=0d1117&title_color=ff5533&text_color=e6edf3&icon_color=ff8c1a&ring_color=ff5533&border_color=3d1f1a&cache_seconds=1800" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=salmanmallah&layout=compact&bg_color=0d1117&title_color=ff5533&text_color=e6edf3&border_color=3d1f1a" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=salmanmallah&layout=compact&bg_color=0d1117&title_color=ff5533&text_color=e6edf3&border_color=3d1f1a" />
 </p>
 
 <!-- Streak Stats -->
