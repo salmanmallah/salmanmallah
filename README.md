@@ -99,27 +99,57 @@
 
 ---
 
-### GitHub Stats
+### GitHub Stats & Activity
 
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=salmanmallah&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=salmanmallah&show_icons=true&bg_color=0d1117&title_color=ff5533&text_color=e6edf3&icon_color=ff8c1a&ring_color=ff5533&border_color=3d1f1a&cache_seconds=1800" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=salmanmallah&layout=compact&bg_color=0d1117&title_color=ff5533&text_color=e6edf3&border_color=3d1f1a" />
-</p>
+<div align="center">
 
 <!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanmallah&background=0d1117&ring=ff5533&fire=ff8c1a&currStreakNum=ff8c1a&sideNums=e6edf3&currStreakLabel=ff5533&sideLabels=8b949e&dates=8b949e&stroke=3d1f1a" />
+  <img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; <b>Streak Stats</b>
 </p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=salmanmallah&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- GitHub Profile Stats & Languages -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Th4eDUkNM3BYRxnzQi/giphy.gif" width="40px"> &nbsp; <b>GitHub Profile Stats</b>
+</p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="salmanmallah's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=salmanmallah&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="salmanmallah's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=salmanmallah&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="salmanmallah's github activity graph" src="https://github-activity-graph.vercel.app/graph?username=salmanmallah&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true" />
+  </a>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="40px"> &nbsp; <b>My Trophies</b>
+</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="trophy" src="https://github-profile-trophy-eight.vercel.app/?username=salmanmallah&theme=onedark" />
+  </a>
+</p>
+
+</div>
+
 ---
 
 ### Connect with Me
