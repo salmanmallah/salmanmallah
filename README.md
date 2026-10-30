@@ -38,12 +38,11 @@
         <a href="https://github.com/salmanmallah/packerscope">🔍 PackerScope</a>
       </h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Domain-Reverse_Engineering-red?style=flat-square" />
+        <code>Python</code> &nbsp;•&nbsp; <code>PE Internals</code> &nbsp;•&nbsp; <code>Entropy</code>
       </p>
-      <p>Modular Python framework engineered for automated PE executable packer detection, heuristic section entropy analysis, and unpacking verification for malware triage.</p>
+      <p>Modular framework engineered for automated PE executable packer detection, heuristic section entropy analysis, and unpacking verification for malware triage.</p>
       <p align="center">
-        <a href="https://github.com/salmanmallah/packerscope"><b>View Repository »</b></a>
+        <a href="https://github.com/salmanmallah/packerscope"><b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -51,12 +50,11 @@
         <a href="https://github.com/salmanmallah/noogen-stealer-malware-analysis">🛡️ Noogen Stealer Analysis</a>
       </h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Target-.NET_Crypter-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Intel-YARA_%26_C2-blue?style=flat-square" />
+        <code>.NET</code> &nbsp;•&nbsp; <code>Reverse Engineering</code> &nbsp;•&nbsp; <code>YARA</code>
       </p>
-      <p>Multi-stage reverse engineering, static payload extraction, deobfuscation methodology, and C2 intelligence for the Noogen.Validation infostealer.</p>
+      <p>Multi-stage reverse engineering, payload extraction, deobfuscation workflows, and C2 intelligence for the Noogen.Validation infostealer.</p>
       <p align="center">
-        <a href="https://github.com/salmanmallah/noogen-stealer-malware-analysis"><b>View Repository »</b></a>
+        <a href="https://github.com/salmanmallah/noogen-stealer-malware-analysis"><b>Explore Repository »</b></a>
       </p>
     </td>
     <td width="33%" valign="top">
@@ -64,12 +62,11 @@
         <a href="https://github.com/salmanmallah/proc_dump">⚡ proc_dump</a>
       </h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Language-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/System-Win32_Native_APIs-black?style=flat-square" />
+        <code>C++</code> &nbsp;•&nbsp; <code>Win32 API</code> &nbsp;•&nbsp; <code>Memory Forensics</code>
       </p>
-      <p>Lightweight low-level utility utilizing Windows Native APIs for live process memory acquisition and offline forensic analysis without debugger attachment.</p>
+      <p>Lightweight low-level memory acquisition utility utilizing Windows Native APIs for live process dumping and offline forensic analysis without debugger attachment.</p>
       <p align="center">
-        <a href="https://github.com/salmanmallah/proc_dump"><b>View Repository »</b></a>
+        <a href="https://github.com/salmanmallah/proc_dump"><b>Explore Repository »</b></a>
       </p>
     </td>
   </tr>
